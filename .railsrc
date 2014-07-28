@@ -1,5 +1,1 @@
-begin
-  require 'hirb'
-  Hirb.enable
-rescue LoadError
-end
+--database postgresql
